@@ -10,7 +10,8 @@ What is GODRA inside the Godfe2ray
 _GODRA It's like a mod inside the games and I'm its creator for you. That means all protocols including Warp, Wireguard, Intra, and DOH3 are inside it, and any new protocol that comes along can be included.
 
 
-<img width="415" height="757" alt="Screenshot_23" src="https://github.com/user-attachments/assets/e08e6827-9be9-404a-ad9c-2fa7ab6bf1b7" />
+<img width="417" height="630" alt="Screenshot_26" src="https://github.com/user-attachments/assets/44ece5d0-2be8-4e8d-afce-810963a2170a" />
+
 
 Telegeram and Website link https://davoo233.github.io/Godfe2ray/
 
