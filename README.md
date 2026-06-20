@@ -1,9 +1,9 @@
-What          is      # Godfe2ray !
+What          is      #Godfe2ray !
 
 <img width="440" height="401" alt="favicon" src="https://github.com/user-attachments/assets/f3a36dde-4d6e-4810-98f1-fe85a03a28c2" />
 
 
-_Godfe2ray / گادفرای is (ALL IN ONE) & next generation of v2ray and DNS changer or VPNSs 
+_Godfe2ray is (ALL IN ONE) & next generation of #v2ray and #DNS changer or #VPNS s 
 
 What is GODRA inside the Godfe2ray 
 
@@ -12,7 +12,7 @@ _GODRA It's like a mod inside the games and I'm its creator for you. That means 
 
 <img width="415" height="757" alt="Screenshot_23" src="https://github.com/user-attachments/assets/e08e6827-9be9-404a-ad9c-2fa7ab6bf1b7" />
 
-Telegeram and Website link 
+Telegeram and Website link https://davoo233.github.io/Godfe2ray/
 
 Download link 
 
