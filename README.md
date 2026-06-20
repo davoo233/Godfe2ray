@@ -3,7 +3,7 @@ What          is      #Godfe2ray !
 <img width="440" height="401" alt="favicon" src="https://github.com/user-attachments/assets/f3a36dde-4d6e-4810-98f1-fe85a03a28c2" />
 
 
-_Godfe2ray is (ALL IN ONE) & next generation of #v2ray and #DNS changer or #VPNS s 
+_Godfe2ray is (ALL IN ONE) & next generation of #v2ray and #DNS changer or #VPN s 
 
 What is GODRA inside the Godfe2ray 
 
