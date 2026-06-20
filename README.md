@@ -37,6 +37,8 @@ DNSCrypt protocol with x25519chacha20poly1305 encryption - the most secure DNS e
 
 and     more ...... 
 
+<img width="724" height="225" alt="Screenshot_28" src="https://github.com/user-attachments/assets/7ccac8a5-9bb6-46e4-b24a-52df403393d1" />
+
 
 if you have any problem comment it on telegram i fix that
 
