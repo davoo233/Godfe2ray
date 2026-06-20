@@ -14,7 +14,7 @@ _GODRA It's like a mod inside the games and I'm its creator for you. That means 
 <img width="417" height="630" alt="Screenshot_26" src="https://github.com/user-attachments/assets/44ece5d0-2be8-4e8d-afce-810963a2170a" />
 
 
-Telegeram t.me/Godfe2ray
+Telegeram  https://t.me/+WWLIk7zpSSVkZDFk    t.me/Godfe2ray
 
 and Website link ✅  live at https://godfe2ray.github.io/
 
