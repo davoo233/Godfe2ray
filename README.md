@@ -16,7 +16,7 @@ _GODRA It's like a mod inside the games and I'm its creator for you. That means 
 
 Telegeram  https://t.me/+WWLIk7zpSSVkZDFk    t.me/Godfe2ray
 
-and Website link ✅  live at https://godfe2ray.github.io/
+ Website https://godfe2ray.github.io/
 
 Download link https://github.com/davoo233/Godfe2ray/releases/tag/Godfe2ray
 
