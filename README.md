@@ -18,7 +18,7 @@ Telegeram https://web.telegram.org/@Godfe2ray
 
 and Website link ✅  live at https://godfe2ray.github.io/
 
-Download link 
+Download link https://github.com/davoo233/Godfe2ray/releases/tag/Godfe2ray
 
 ---------There are many options, a small percentage of which include:
 
